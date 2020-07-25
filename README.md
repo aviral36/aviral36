@@ -12,9 +12,7 @@ To know more about my select projects, visit [aviral36.github.io](https://aviral
 
 
 
-<a href="https://github.com/aviral36">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aviral36&show_icons=true" />
-</a>
-<a href="https://github.com/viral36">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviral36&hide=jupyter notebook,C#" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aviral36&show_icons=true" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviral36&hide=jupyter notebook,C#" />
+
