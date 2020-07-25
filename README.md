@@ -1,4 +1,6 @@
-### Hi there! 👋
+<a href="https://aviral36.github.io">
+  <img src = "https://github.com/aviral36/aviral36/blob/master/profile_header.gif">
+</a>
 
 I code in Python, but have tried my hands on various other languages and technologies too. You'll find my projects here. 
 
